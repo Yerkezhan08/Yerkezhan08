@@ -1,16 +1,16 @@
-## Hi there 👋
+### Привет! 👋
 
-<!--
-**Yerkezhan08/Yerkezhan08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Еркежан, я начинающий разработчик и студент направления «Программное обеспечение».
 
-Here are some ideas to get you started:
+На этой странице я публикую свои учебные проекты, изучаю веб-разработку и совершенствую навыки программирования. Здесь вы можете найти мои работы, созданные с помощью HTML, CSS, JavaScript, Python и других технологий.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Моя цель** — развиваться в сфере IT, изучать новые технологии и создавать интересные проекты.
+
+💻 **Мои направления:**
+- Веб-разработка  
+- HTML и CSS  
+- JavaScript  
+- Python и Django  
+- Git и GitHub  
+
+🚀 Постоянно учусь, практикуюсь и стремлюсь стать профессиональным разработчиком!
